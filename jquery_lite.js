@@ -116,7 +116,9 @@
     }
   };
 
-  
+  DOMNodeCollection.prototype.get = function(index) {
+    return new DOMNodeCollection([this.elements[index]]);
+  };
 
   DOMNodeCollection.prototype.addClass = function (newClass) {
     this.elements.forEach( function (el) {
