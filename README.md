@@ -29,7 +29,7 @@ Write your own script using jQuery-Lite!
 
 # Methods
 
-Here is the list of most commonly used jQuery API functions that will also work on jQuery-Lite:
+Here is the [list](https://gist.github.com/azat-co/5898111) of most commonly used jQuery API functions that will also work on jQuery-Lite:
 
 * **[html()](http://api.jquery.com/html)**: Gets or sets an inner HTML of an element
 * **[find()](http://api.jquery.com/find)**: Selects elements based on the provided selector string
