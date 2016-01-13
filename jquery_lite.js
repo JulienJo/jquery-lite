@@ -102,7 +102,6 @@
 
     return this;
   };
-
   
 
   DOMNodeCollection.prototype.attr = function (name, value) {
