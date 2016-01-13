@@ -29,7 +29,7 @@ Write your own script using jQuery-Lite!
 
 # Methods
 
-Here is the list of most commonly used jQuery API functions:
+Here is the list of most commonly used jQuery API functions that will also work on jQuery-Lite:
 
 * **[html()](http://api.jquery.com/html)**: Gets or sets an inner HTML of an element
 * **[find()](http://api.jquery.com/find)**: Selects elements based on the provided selector string
@@ -47,3 +47,5 @@ Here is the list of most commonly used jQuery API functions:
 * **[$.ajax()](http://api.jquery.com/jQuery.)**: Perform an asynchronous HTTP (Ajax) request
 * **[$.get()](http://api.jquery.com/jQuery.)**: Load data from the server using a HTTP GET request
 * **[$.post()](http://api.jquery.com/jQuery.)**: Load data from the server using a HTTP POST request
+
+For more information on how to use these methods in conjunction with selectors, check out [this awesome tutorial!](http://try.jquery.com/)
